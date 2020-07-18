@@ -1,1 +1,17 @@
+1>   What is your understanding of blockchain ?
+Ans>  Blockchain is a technology where security, transparency and decentralization is ensured. Data is embedded in the form of blocks and is secured in proper manner.
+2>   What is the core problem Blockchain trying to solve ?
+Ans>  Core problem is third party involvement is the problem. Blockchain technology do verification without being dependent on third party. So data cannot be altered or deleted.
+3> What are the few features which blockchain will give you ?
+Ans>  NO hacking 
+Huge security boost
+Verification
+Data transparency
+Decentralized
+4> What all things does a block contain?
+Ans> A blockchain, originally block chain, is a growing list of records, called blocks, that are linked using cryptography.
+Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data.
+5>How is the verifiabilty of blockchain has been attained?
+Ans>Blockchains are made of blocks of code joined together and is essentially a process based on consensus between transacting parties. 
+The blockchain network has many nodes of such continuous blockchains.
 
